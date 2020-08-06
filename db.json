@@ -1,5 +1,11 @@
 {
-  "language": "sp",
-  "scanning": "manual",
-  "showBadge": "off"
+  "language": {
+    "value": "sp"
+  },
+  "scanning": {
+    "value": "manual"
+  },
+  "showBadge": {
+    "value": "off"
+  }
 }
