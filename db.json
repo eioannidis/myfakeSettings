@@ -2,6 +2,6 @@
   "settings": {
     "language": "sp",
     "scanning": "manual",
-    "showBadge": "off"
+    "showBadge": "on"
   }
 }  
