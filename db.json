@@ -1,7 +1,9 @@
 {
-  "settings": {
+  "settings": [
+    {
     "language": "sp",
     "scanning": "manual",
     "showBadge": "off"
-  }
+    }
+  ]
 }  
