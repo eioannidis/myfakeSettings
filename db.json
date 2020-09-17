@@ -3,10 +3,11 @@
 	  "general": {
 		  "language": "sp",
 		  "scanning": "manual",
-		  "showBadge": "true"
+		  "showBadge": "false",
+		  "showMarkupBadge": "true"
 	  },
 	  "dataset": {
-		  "showCollectedFrom": "true",
+		  "showCollectedFrom": "false",
 		  "showHostedBy": "true",
 		  "showOpenaireId": "true",
 		  "showSubTitle": "true",
