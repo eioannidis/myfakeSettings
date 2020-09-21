@@ -5,8 +5,8 @@
 		  "scanning": "manual",
 		  "showBadge": "false",
 		  "showMarkupBadge": "true",
-		  showAdditionalDoiInfo: "true",
-		  showAdditionalMarkupInfo: "true"
+		  "showAdditionalDoiInfo": "true",
+		  "showAdditionalMarkupInfo": "true"
 	  },
 	  "dataset": {
 		  "showCollectedFrom": "false",
