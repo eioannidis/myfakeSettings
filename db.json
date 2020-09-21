@@ -4,7 +4,9 @@
 		  "language": "sp",
 		  "scanning": "manual",
 		  "showBadge": "false",
-		  "showMarkupBadge": "true"
+		  "showMarkupBadge": "true",
+		  showAdditionalDoiInfo: "true",
+		  showAdditionalMarkupInfo: "true"
 	  },
 	  "dataset": {
 		  "showCollectedFrom": "false",
