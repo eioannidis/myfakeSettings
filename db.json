@@ -8,7 +8,7 @@
 		  "showAdditionalDoiInfo": "true",
 		  "showAdditionalMarkupInfo": "true",
 		  "position": "rightDowm",
-		  "buttonColor": "blue",
+		  "buttonColor": "red",
 		  "theme": "bluePurple"
 	  },
 	  "dataset": {
