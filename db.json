@@ -6,7 +6,10 @@
 		  "showBadge": "false",
 		  "showMarkupBadge": "true",
 		  "showAdditionalDoiInfo": "true",
-		  "showAdditionalMarkupInfo": "true"
+		  "showAdditionalMarkupInfo": "true",
+		  "position": "rightDowm",
+		  "buttonColor": "blue",
+		  "theme": "bluePurple"
 	  },
 	  "dataset": {
 		  "showCollectedFrom": "false",
