@@ -6,7 +6,7 @@
 		  "showBadge": "false",
 		  "showMarkupBadge": "true",
 		  "showAdditionalDoiInfo": "true",
-		  "showAdditionalDoiInfoTitle": "false", 
+		  "showAdditionalDoiInfoTitle": "true", 
 		  "showAdditionalMarkupInfo": "true",
 		  "position": "rightDowm",
 		  "buttonColor": "red",
