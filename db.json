@@ -10,7 +10,8 @@
 		  "showAdditionalMarkupInfo": "true",
 		  "position": "rightDowm",
 		  "buttonColor": "red",
-		  "theme": "bluePurple"
+		  "theme": "bluePurple",
+		  "maxSize": "5"
 	  },
 	  "dataset": {
 		  "showCollectedFrom": "false",
