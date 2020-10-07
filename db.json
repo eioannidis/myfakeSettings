@@ -11,7 +11,9 @@
 		  "position": "rightDowm",
 		  "buttonColor": "red",
 		  "theme": "bluePurple",
-		  "maxSize": "5"
+		  "maxSize": "5",
+		  "deactivatePlugin": "true"
+
 	  },
 	  "dataset": {
 		  "showCollectedFrom": "false",
